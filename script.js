@@ -11,6 +11,7 @@ Hello Laura
 Good Bye John
 */
 
+
 (function() {
     var names = ["Yaakov", "John", "Jenny", "Jimmy", "Peter", "Flora", "Larry", "Patrick", "Laura", "John"];
     for (var i = 0; i < names.length; i++) {
