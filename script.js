@@ -22,4 +22,4 @@ Good Bye Jim
             helloSpeaker.speak(names[i]);
         }
     }
-})();
+}();
