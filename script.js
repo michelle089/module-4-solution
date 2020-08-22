@@ -8,7 +8,7 @@ Hello Flora
 Hello Larry
 Hello Patrick
 Hello Laura
-Good Bye John
+Good Bye Jacky
 */
 
 (function() {
